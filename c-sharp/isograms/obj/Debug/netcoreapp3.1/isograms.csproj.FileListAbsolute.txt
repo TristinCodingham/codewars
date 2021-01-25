@@ -1,0 +1,13 @@
+C:\xampp\htdocs\codewars\c-sharp\isograms\bin\Debug\netcoreapp3.1\isograms.exe
+C:\xampp\htdocs\codewars\c-sharp\isograms\bin\Debug\netcoreapp3.1\isograms.deps.json
+C:\xampp\htdocs\codewars\c-sharp\isograms\bin\Debug\netcoreapp3.1\isograms.runtimeconfig.json
+C:\xampp\htdocs\codewars\c-sharp\isograms\bin\Debug\netcoreapp3.1\isograms.runtimeconfig.dev.json
+C:\xampp\htdocs\codewars\c-sharp\isograms\bin\Debug\netcoreapp3.1\isograms.dll
+C:\xampp\htdocs\codewars\c-sharp\isograms\bin\Debug\netcoreapp3.1\isograms.pdb
+C:\xampp\htdocs\codewars\c-sharp\isograms\obj\Debug\netcoreapp3.1\isograms.csprojAssemblyReference.cache
+C:\xampp\htdocs\codewars\c-sharp\isograms\obj\Debug\netcoreapp3.1\isograms.AssemblyInfoInputs.cache
+C:\xampp\htdocs\codewars\c-sharp\isograms\obj\Debug\netcoreapp3.1\isograms.AssemblyInfo.cs
+C:\xampp\htdocs\codewars\c-sharp\isograms\obj\Debug\netcoreapp3.1\isograms.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\codewars\c-sharp\isograms\obj\Debug\netcoreapp3.1\isograms.dll
+C:\xampp\htdocs\codewars\c-sharp\isograms\obj\Debug\netcoreapp3.1\isograms.pdb
+C:\xampp\htdocs\codewars\c-sharp\isograms\obj\Debug\netcoreapp3.1\isograms.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Web Dev\htdocs\codewars\c-sharp\rot13\bin\Debug\net5.0\rot13.exe
+D:\Web Dev\htdocs\codewars\c-sharp\rot13\bin\Debug\net5.0\rot13.deps.json
+D:\Web Dev\htdocs\codewars\c-sharp\rot13\bin\Debug\net5.0\rot13.runtimeconfig.json
+D:\Web Dev\htdocs\codewars\c-sharp\rot13\bin\Debug\net5.0\rot13.runtimeconfig.dev.json
+D:\Web Dev\htdocs\codewars\c-sharp\rot13\bin\Debug\net5.0\rot13.dll
+D:\Web Dev\htdocs\codewars\c-sharp\rot13\bin\Debug\net5.0\ref\rot13.dll
+D:\Web Dev\htdocs\codewars\c-sharp\rot13\bin\Debug\net5.0\rot13.pdb
+D:\Web Dev\htdocs\codewars\c-sharp\rot13\obj\Debug\net5.0\rot13.csprojAssemblyReference.cache
+D:\Web Dev\htdocs\codewars\c-sharp\rot13\obj\Debug\net5.0\rot13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web Dev\htdocs\codewars\c-sharp\rot13\obj\Debug\net5.0\rot13.AssemblyInfoInputs.cache
+D:\Web Dev\htdocs\codewars\c-sharp\rot13\obj\Debug\net5.0\rot13.AssemblyInfo.cs
+D:\Web Dev\htdocs\codewars\c-sharp\rot13\obj\Debug\net5.0\rot13.csproj.CoreCompileInputs.cache
+D:\Web Dev\htdocs\codewars\c-sharp\rot13\obj\Debug\net5.0\rot13.dll
+D:\Web Dev\htdocs\codewars\c-sharp\rot13\obj\Debug\net5.0\ref\rot13.dll
+D:\Web Dev\htdocs\codewars\c-sharp\rot13\obj\Debug\net5.0\rot13.pdb
+D:\Web Dev\htdocs\codewars\c-sharp\rot13\obj\Debug\net5.0\rot13.genruntimeconfig.cache

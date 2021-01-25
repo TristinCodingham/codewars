@@ -1,0 +1,13 @@
+C:\xampp\htdocs\codewars\c-sharp\vowel-count\bin\Debug\netcoreapp3.1\vowel-count.exe
+C:\xampp\htdocs\codewars\c-sharp\vowel-count\bin\Debug\netcoreapp3.1\vowel-count.deps.json
+C:\xampp\htdocs\codewars\c-sharp\vowel-count\bin\Debug\netcoreapp3.1\vowel-count.runtimeconfig.json
+C:\xampp\htdocs\codewars\c-sharp\vowel-count\bin\Debug\netcoreapp3.1\vowel-count.runtimeconfig.dev.json
+C:\xampp\htdocs\codewars\c-sharp\vowel-count\bin\Debug\netcoreapp3.1\vowel-count.dll
+C:\xampp\htdocs\codewars\c-sharp\vowel-count\bin\Debug\netcoreapp3.1\vowel-count.pdb
+C:\xampp\htdocs\codewars\c-sharp\vowel-count\obj\Debug\netcoreapp3.1\vowel-count.csprojAssemblyReference.cache
+C:\xampp\htdocs\codewars\c-sharp\vowel-count\obj\Debug\netcoreapp3.1\vowel-count.AssemblyInfoInputs.cache
+C:\xampp\htdocs\codewars\c-sharp\vowel-count\obj\Debug\netcoreapp3.1\vowel-count.AssemblyInfo.cs
+C:\xampp\htdocs\codewars\c-sharp\vowel-count\obj\Debug\netcoreapp3.1\vowel-count.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\codewars\c-sharp\vowel-count\obj\Debug\netcoreapp3.1\vowel-count.dll
+C:\xampp\htdocs\codewars\c-sharp\vowel-count\obj\Debug\netcoreapp3.1\vowel-count.pdb
+C:\xampp\htdocs\codewars\c-sharp\vowel-count\obj\Debug\netcoreapp3.1\vowel-count.genruntimeconfig.cache

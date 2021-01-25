@@ -1,0 +1,16 @@
+D:\Web Dev\htdocs\codewars\c-sharp\WalkingApp\bin\Debug\net5.0\WalkingApp.exe
+D:\Web Dev\htdocs\codewars\c-sharp\WalkingApp\bin\Debug\net5.0\WalkingApp.deps.json
+D:\Web Dev\htdocs\codewars\c-sharp\WalkingApp\bin\Debug\net5.0\WalkingApp.runtimeconfig.json
+D:\Web Dev\htdocs\codewars\c-sharp\WalkingApp\bin\Debug\net5.0\WalkingApp.runtimeconfig.dev.json
+D:\Web Dev\htdocs\codewars\c-sharp\WalkingApp\bin\Debug\net5.0\WalkingApp.dll
+D:\Web Dev\htdocs\codewars\c-sharp\WalkingApp\bin\Debug\net5.0\ref\WalkingApp.dll
+D:\Web Dev\htdocs\codewars\c-sharp\WalkingApp\bin\Debug\net5.0\WalkingApp.pdb
+D:\Web Dev\htdocs\codewars\c-sharp\WalkingApp\obj\Debug\net5.0\WalkingApp.csprojAssemblyReference.cache
+D:\Web Dev\htdocs\codewars\c-sharp\WalkingApp\obj\Debug\net5.0\WalkingApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web Dev\htdocs\codewars\c-sharp\WalkingApp\obj\Debug\net5.0\WalkingApp.AssemblyInfoInputs.cache
+D:\Web Dev\htdocs\codewars\c-sharp\WalkingApp\obj\Debug\net5.0\WalkingApp.AssemblyInfo.cs
+D:\Web Dev\htdocs\codewars\c-sharp\WalkingApp\obj\Debug\net5.0\WalkingApp.csproj.CoreCompileInputs.cache
+D:\Web Dev\htdocs\codewars\c-sharp\WalkingApp\obj\Debug\net5.0\WalkingApp.dll
+D:\Web Dev\htdocs\codewars\c-sharp\WalkingApp\obj\Debug\net5.0\ref\WalkingApp.dll
+D:\Web Dev\htdocs\codewars\c-sharp\WalkingApp\obj\Debug\net5.0\WalkingApp.pdb
+D:\Web Dev\htdocs\codewars\c-sharp\WalkingApp\obj\Debug\net5.0\WalkingApp.genruntimeconfig.cache

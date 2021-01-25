@@ -1,0 +1,13 @@
+C:\xampp\htdocs\codewars\c-sharp\descending-order\obj\Debug\netcoreapp3.1\descending-order.csprojAssemblyReference.cache
+C:\xampp\htdocs\codewars\c-sharp\descending-order\obj\Debug\netcoreapp3.1\descending-order.AssemblyInfoInputs.cache
+C:\xampp\htdocs\codewars\c-sharp\descending-order\obj\Debug\netcoreapp3.1\descending-order.AssemblyInfo.cs
+C:\xampp\htdocs\codewars\c-sharp\descending-order\obj\Debug\netcoreapp3.1\descending-order.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\codewars\c-sharp\descending-order\bin\Debug\netcoreapp3.1\descending-order.exe
+C:\xampp\htdocs\codewars\c-sharp\descending-order\bin\Debug\netcoreapp3.1\descending-order.deps.json
+C:\xampp\htdocs\codewars\c-sharp\descending-order\bin\Debug\netcoreapp3.1\descending-order.runtimeconfig.json
+C:\xampp\htdocs\codewars\c-sharp\descending-order\bin\Debug\netcoreapp3.1\descending-order.runtimeconfig.dev.json
+C:\xampp\htdocs\codewars\c-sharp\descending-order\bin\Debug\netcoreapp3.1\descending-order.dll
+C:\xampp\htdocs\codewars\c-sharp\descending-order\bin\Debug\netcoreapp3.1\descending-order.pdb
+C:\xampp\htdocs\codewars\c-sharp\descending-order\obj\Debug\netcoreapp3.1\descending-order.dll
+C:\xampp\htdocs\codewars\c-sharp\descending-order\obj\Debug\netcoreapp3.1\descending-order.pdb
+C:\xampp\htdocs\codewars\c-sharp\descending-order\obj\Debug\netcoreapp3.1\descending-order.genruntimeconfig.cache

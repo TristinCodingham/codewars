@@ -1,0 +1,13 @@
+C:\xampp\htdocs\codewars\c-sharp\duplicate-encoder\bin\Debug\netcoreapp3.1\duplicate-encoder.exe
+C:\xampp\htdocs\codewars\c-sharp\duplicate-encoder\bin\Debug\netcoreapp3.1\duplicate-encoder.deps.json
+C:\xampp\htdocs\codewars\c-sharp\duplicate-encoder\bin\Debug\netcoreapp3.1\duplicate-encoder.runtimeconfig.json
+C:\xampp\htdocs\codewars\c-sharp\duplicate-encoder\bin\Debug\netcoreapp3.1\duplicate-encoder.runtimeconfig.dev.json
+C:\xampp\htdocs\codewars\c-sharp\duplicate-encoder\bin\Debug\netcoreapp3.1\duplicate-encoder.dll
+C:\xampp\htdocs\codewars\c-sharp\duplicate-encoder\bin\Debug\netcoreapp3.1\duplicate-encoder.pdb
+C:\xampp\htdocs\codewars\c-sharp\duplicate-encoder\obj\Debug\netcoreapp3.1\duplicate-encoder.csprojAssemblyReference.cache
+C:\xampp\htdocs\codewars\c-sharp\duplicate-encoder\obj\Debug\netcoreapp3.1\duplicate-encoder.AssemblyInfoInputs.cache
+C:\xampp\htdocs\codewars\c-sharp\duplicate-encoder\obj\Debug\netcoreapp3.1\duplicate-encoder.AssemblyInfo.cs
+C:\xampp\htdocs\codewars\c-sharp\duplicate-encoder\obj\Debug\netcoreapp3.1\duplicate-encoder.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\codewars\c-sharp\duplicate-encoder\obj\Debug\netcoreapp3.1\duplicate-encoder.dll
+C:\xampp\htdocs\codewars\c-sharp\duplicate-encoder\obj\Debug\netcoreapp3.1\duplicate-encoder.pdb
+C:\xampp\htdocs\codewars\c-sharp\duplicate-encoder\obj\Debug\netcoreapp3.1\duplicate-encoder.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\xampp\htdocs\codewars\c-sharp\reverse-words\bin\Debug\netcoreapp3.1\reverse-words.exe
+C:\xampp\htdocs\codewars\c-sharp\reverse-words\bin\Debug\netcoreapp3.1\reverse-words.deps.json
+C:\xampp\htdocs\codewars\c-sharp\reverse-words\bin\Debug\netcoreapp3.1\reverse-words.runtimeconfig.json
+C:\xampp\htdocs\codewars\c-sharp\reverse-words\bin\Debug\netcoreapp3.1\reverse-words.runtimeconfig.dev.json
+C:\xampp\htdocs\codewars\c-sharp\reverse-words\bin\Debug\netcoreapp3.1\reverse-words.dll
+C:\xampp\htdocs\codewars\c-sharp\reverse-words\bin\Debug\netcoreapp3.1\reverse-words.pdb
+C:\xampp\htdocs\codewars\c-sharp\reverse-words\obj\Debug\netcoreapp3.1\reverse-words.csprojAssemblyReference.cache
+C:\xampp\htdocs\codewars\c-sharp\reverse-words\obj\Debug\netcoreapp3.1\reverse-words.AssemblyInfoInputs.cache
+C:\xampp\htdocs\codewars\c-sharp\reverse-words\obj\Debug\netcoreapp3.1\reverse-words.AssemblyInfo.cs
+C:\xampp\htdocs\codewars\c-sharp\reverse-words\obj\Debug\netcoreapp3.1\reverse-words.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\codewars\c-sharp\reverse-words\obj\Debug\netcoreapp3.1\reverse-words.dll
+C:\xampp\htdocs\codewars\c-sharp\reverse-words\obj\Debug\netcoreapp3.1\reverse-words.pdb
+C:\xampp\htdocs\codewars\c-sharp\reverse-words\obj\Debug\netcoreapp3.1\reverse-words.genruntimeconfig.cache

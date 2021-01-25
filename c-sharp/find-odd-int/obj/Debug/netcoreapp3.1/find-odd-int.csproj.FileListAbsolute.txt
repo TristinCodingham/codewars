@@ -1,0 +1,13 @@
+C:\xampp\htdocs\codewars\c-sharp\find-odd-int\bin\Debug\netcoreapp3.1\find-odd-int.exe
+C:\xampp\htdocs\codewars\c-sharp\find-odd-int\bin\Debug\netcoreapp3.1\find-odd-int.deps.json
+C:\xampp\htdocs\codewars\c-sharp\find-odd-int\bin\Debug\netcoreapp3.1\find-odd-int.runtimeconfig.json
+C:\xampp\htdocs\codewars\c-sharp\find-odd-int\bin\Debug\netcoreapp3.1\find-odd-int.runtimeconfig.dev.json
+C:\xampp\htdocs\codewars\c-sharp\find-odd-int\bin\Debug\netcoreapp3.1\find-odd-int.dll
+C:\xampp\htdocs\codewars\c-sharp\find-odd-int\bin\Debug\netcoreapp3.1\find-odd-int.pdb
+C:\xampp\htdocs\codewars\c-sharp\find-odd-int\obj\Debug\netcoreapp3.1\find-odd-int.csprojAssemblyReference.cache
+C:\xampp\htdocs\codewars\c-sharp\find-odd-int\obj\Debug\netcoreapp3.1\find-odd-int.AssemblyInfoInputs.cache
+C:\xampp\htdocs\codewars\c-sharp\find-odd-int\obj\Debug\netcoreapp3.1\find-odd-int.AssemblyInfo.cs
+C:\xampp\htdocs\codewars\c-sharp\find-odd-int\obj\Debug\netcoreapp3.1\find-odd-int.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\codewars\c-sharp\find-odd-int\obj\Debug\netcoreapp3.1\find-odd-int.dll
+C:\xampp\htdocs\codewars\c-sharp\find-odd-int\obj\Debug\netcoreapp3.1\find-odd-int.pdb
+C:\xampp\htdocs\codewars\c-sharp\find-odd-int\obj\Debug\netcoreapp3.1\find-odd-int.genruntimeconfig.cache
