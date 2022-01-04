@@ -1,0 +1,16 @@
+D:\Web Dev\htdocs\codewars\c-sharp\playing-with-digits\obj\Debug\net5.0\playing-with-digits.csprojAssemblyReference.cache
+D:\Web Dev\htdocs\codewars\c-sharp\playing-with-digits\obj\Debug\net5.0\playing-with-digits.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web Dev\htdocs\codewars\c-sharp\playing-with-digits\obj\Debug\net5.0\playing-with-digits.AssemblyInfoInputs.cache
+D:\Web Dev\htdocs\codewars\c-sharp\playing-with-digits\obj\Debug\net5.0\playing-with-digits.AssemblyInfo.cs
+D:\Web Dev\htdocs\codewars\c-sharp\playing-with-digits\obj\Debug\net5.0\playing-with-digits.csproj.CoreCompileInputs.cache
+D:\Web Dev\htdocs\codewars\c-sharp\playing-with-digits\bin\Debug\net5.0\playing-with-digits.exe
+D:\Web Dev\htdocs\codewars\c-sharp\playing-with-digits\bin\Debug\net5.0\playing-with-digits.deps.json
+D:\Web Dev\htdocs\codewars\c-sharp\playing-with-digits\bin\Debug\net5.0\playing-with-digits.runtimeconfig.json
+D:\Web Dev\htdocs\codewars\c-sharp\playing-with-digits\bin\Debug\net5.0\playing-with-digits.runtimeconfig.dev.json
+D:\Web Dev\htdocs\codewars\c-sharp\playing-with-digits\bin\Debug\net5.0\playing-with-digits.dll
+D:\Web Dev\htdocs\codewars\c-sharp\playing-with-digits\bin\Debug\net5.0\ref\playing-with-digits.dll
+D:\Web Dev\htdocs\codewars\c-sharp\playing-with-digits\bin\Debug\net5.0\playing-with-digits.pdb
+D:\Web Dev\htdocs\codewars\c-sharp\playing-with-digits\obj\Debug\net5.0\playing-with-digits.dll
+D:\Web Dev\htdocs\codewars\c-sharp\playing-with-digits\obj\Debug\net5.0\ref\playing-with-digits.dll
+D:\Web Dev\htdocs\codewars\c-sharp\playing-with-digits\obj\Debug\net5.0\playing-with-digits.pdb
+D:\Web Dev\htdocs\codewars\c-sharp\playing-with-digits\obj\Debug\net5.0\playing-with-digits.genruntimeconfig.cache
